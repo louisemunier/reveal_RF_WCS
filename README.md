@@ -1225,3 +1225,6 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 MIT licensed
 
 Copyright (C) 2017 Hakim El Hattab, http://hakim.se
+=======
+# reveal_RF_WCS
+slides for diploma developer web
